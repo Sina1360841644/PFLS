@@ -45,7 +45,6 @@ echo "Length of the longest sequence: $longest_seq"
 echo "Length of the shortest sequence: $shortest_seq"
 echo "Average sequence length: $average_seq_length"
 echo "GC Content (%): $per_gc_content"
-echo $num_of_sequence_in_a_file
 
 
 
